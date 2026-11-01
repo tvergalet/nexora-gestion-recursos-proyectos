@@ -31,3 +31,28 @@ El repositorio incluirá la documentación funcional del proyecto, el modelado B
 ## Estado del proyecto
 
 En desarrollo.
+
+## Declaración de Uso de Inteligencia Artificial
+
+Durante el desarrollo del proyecto se utilizó ChatGPT como herramienta de apoyo para analizar, organizar y revisar distintos aspectos de la propuesta.
+
+La inteligencia artificial se utilizó principalmente para:
+
+- Analizar y ordenar el proceso de identificación y selección de profesionales.
+- Proponer una estructura inicial para el modelado BPMN.
+- Revisar la definición de responsabilidades entre el Project Manager, Recursos Humanos, Workday y el sistema propuesto.
+- Colaborar en la redacción y revisión de historias de usuario e indicadores de control.
+- Revisar la organización de la documentación del repositorio.
+
+Algunos ejemplos de consultas realizadas fueron:
+
+- "¿Cómo podría representarse mediante BPMN el proceso de búsqueda y selección de profesionales?"
+- "¿Qué responsabilidades debería tener el Project Manager dentro del proceso?"
+- "¿Cómo representar en el proceso a un profesional que ya se encuentra parcialmente asignado a otro proyecto?"
+- "¿Cómo diferenciar el sistema propuesto de Workday dentro del proceso?"
+
+Las respuestas generadas por IA fueron revisadas antes de incorporarlas al proyecto. Durante este proceso se realizaron modificaciones y correcciones basadas en el funcionamiento definido para la solución.
+
+Por ejemplo, se estableció que la herramienta propuesta funciona como soporte para la toma de decisiones y no realiza automáticamente la asignación de profesionales. También se corrigió el rol de Workday, definiéndolo como el sistema corporativo donde se mantiene el registro oficial de las asignaciones. Además, se decidió permitir que perfiles con información desactualizada continúen apareciendo como candidatos, mostrando una advertencia al responsable de la búsqueda.
+
+Las decisiones finales sobre el funcionamiento del sistema, el proceso modelado y el contenido incorporado al proyecto fueron tomadas y validadas por el autor.
