@@ -6,7 +6,7 @@ Este repositorio contiene la documentación del proyecto académico desarrollado
 
 El proyecto propone el diseño de un Sistema Integrado Inteligente de Gestión de Recursos y Proyectos orientado a mejorar el proceso de identificación y selección de profesionales para proyectos de consultoría.
 
-La solución integra información corporativa proveniente de Workday y utiliza inteligencia artificial como herramienta de apoyo para analizar perfiles y recomendar profesionales según criterios como competencias, experiencia, disponibilidad y asignaciones actuales.
+La solución integra información corporativa proveniente de Workday y utiliza inteligencia artificial como herramienta de apoyo para analizar perfiles y recomendar profesionales según criterios como competencias, experiencia, disponibilidad y asignaciones actuales. Workday mantiene el registro corporativo oficial de las asignaciones, mientras que la herramienta propuesta utiliza esta información como apoyo para la búsqueda y evaluación de profesionales.
 
 Las recomendaciones generadas funcionan como soporte para la toma de decisiones. La selección final de un profesional permanece bajo responsabilidad de los responsables del proyecto.
 
